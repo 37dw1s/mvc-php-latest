@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://medium.com/ibexoft/setup-codeigniter-docker-container-for-development-9f7c6552bdd7
+HostUrl=https://raw.githubusercontent.com/bitnami/bitnami-docker-codeigniter/master/docker-compose.yml
